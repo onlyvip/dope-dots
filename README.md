@@ -6,7 +6,7 @@
 
 
 ```
-git clone https://gitlab.com/only_vip/mxtest-dope-dots.git
+git clone https://github.com/onlyvip/dope-dots.git
 ```
 ## things to delete from mx after first install
 ```
